@@ -82,7 +82,3 @@ The automation framework is implemented with the following components:
 
 - **UTC Date and Time**: 2025-04-04 14:37:29
 - **User**: yogesh2511
-
-```
-
-You can copy and paste this content into your `README.md` file on GitHub.
