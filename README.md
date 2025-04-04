@@ -1,5 +1,3 @@
-Here is a sample `README.md` file based on the provided details:
-
 ```markdown
 # Embark Portal Automation
 
